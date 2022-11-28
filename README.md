@@ -40,14 +40,12 @@
   * les DataFrames Pandas
   * traiter les colonnes
   * traiter les lignes
- 
-
 
 ## Jour 3
 #### Cours :
 * Statistique inférentielle
 
-#### Workshop :
+#### Workshops :
 * Nb5: [Data Visualisation Basique avec Matplotlib et Seaborn](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/5_dataviz_basique_matplotlib_seaborn.ipynb) (laisser les détails techniques de la visualisation pour le cours DataViz)
   * Histogramme
   * Boîte à moustache
@@ -60,6 +58,29 @@
   * Test d'hypothèse 
 
 ## Jour 4
+#### Cours :
+* Statistique inférentielle : échantillonnage
 
+#### Workshop :
+* Nb7: [Echantillonnage](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/7_%C3%A9chantillonnage.ipynb)
+  * Test Z à un échantillon
+  * Test t à un échantillon
+  * Test de proportion unique
+  * Un test de variance
+  * Conclusion
 
 ## Jour 5
+#### Cours :
+* Statistique inférentielle : test à deux échantions
+
+#### Workshop :
+* Nb7: [Test à Deux Echantillons](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/8_test_deux_%C3%A9chantillons.ipynb)
+  * Tests à deux échantillons
+  * Test Z à deux échantillons
+  * Test t à deux échantillons (variances égales/inégales)
+  * Test t apparié
+  * Test des deux proportions
+  * Test des deux variances
+  * ANOVA
+  * Test d'adéquation
+  * Tableaux de contingence
