@@ -45,14 +45,19 @@
 
 ## Jour 3
 #### Cours :
-* Statistuque inférentielle
+* Statistique inférentielle
 
 #### Workshop :
 * Nb5: [Data Visualisation Basique avec Matplotlib et Seaborn](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/5_dataviz_basique_matplotlib_seaborn.ipynb) (laisser les détails techniques de la visualisation pour le cours DataViz)
   * Histogramme
-  * Diagramme en boîte
-  * Graphique à moustache
-  * 
+  * Boîte à moustache
+  * graphique en ligne
+  * graphique en nuage de points
+  * graphique en barres 
+  
+* Nb5: [Statistiques Inférentielles et test d'Hypothèse](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/6_statistiques_inf%C3%A9rentielles_et_test_d_hypoth%C3%A8se.ipynb)
+  * Théorème central limite
+  * Test d'hypothèse 
 
 ## Jour 4
 
