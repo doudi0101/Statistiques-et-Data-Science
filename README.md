@@ -35,7 +35,7 @@
   * Distribution de Poisson
   * Distribution Normale
 
-* Nb4: [Pandas à partir de NumPy]()
+* Nb4: [Pandas à partir de NumPy](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/4_pandas_%C3%A0_partir_de_NumPy.ipynb)
   * les Series Pandas
   * les DataFrames Pandas
   * traiter les colonnes
@@ -45,10 +45,14 @@
 
 ## Jour 3
 #### Cours :
-
+* Statistuque inférentielle
 
 #### Workshop :
-
+* Nb5: [Data Visualisation Basique avec Matplotlib et Seaborn](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/5_dataviz_basique_matplotlib_seaborn.ipynb) (laisser les détails techniques de la visualisation pour le cours DataViz)
+  * Histogramme
+  * Diagramme en boîte
+  * Graphique à moustache
+  * 
 
 ## Jour 4
 
