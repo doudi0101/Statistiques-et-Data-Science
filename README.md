@@ -5,7 +5,7 @@
 #### Cours:
 * Types de statistiques
 
-### Workshop :
+#### Workshop :
 * Nb 1 : [Débuter sur le notebook](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/1_d%C3%A9buter_sur_le_notebook.ipynb)
   * la bibliothèque **math**
   * définir les variables
@@ -13,10 +13,10 @@
   * structures de données (listes, tuples, dictionnaires et ensembles)
 
 ## Jour 2
-### Cours :
+#### Cours :
 
 
-### Workshop :
+#### Workshop :
 * Nb2 : [Statistiques descriptives avec python](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/2_statistiques_descriptives.ipynb)
   * La bibliothèque **statistics**
   * Moyenne
@@ -28,10 +28,10 @@
 
 
 ## Jour 3
-### Cours :
+#### Cours :
 
 
-### Workshop :
+#### Workshop :
 * Nb3 : [Bibliothèque NumPy]
 
 ## Jour 4
