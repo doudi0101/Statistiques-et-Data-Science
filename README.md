@@ -3,8 +3,9 @@
 
 ## Jour 1
 #### Cours:
-* Types de statistiques
-* Calculs manuels
+ * [diapositives](https://sylacefr-my.sharepoint.com/:p:/g/personal/zineb_zannouti_kplr_fr/EUiM7lXYTKFGmaZu0tB4D0EBIsnP01TXDOhWataxU3y31Q?e=mOmHCg)
+ * Types de statistiques
+ * Calculs manuels
 
 #### Workshops :
 * Nb 1 : [Débuter sur le notebook](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/1_d%C3%A9buter_sur_le_notebook.ipynb)
