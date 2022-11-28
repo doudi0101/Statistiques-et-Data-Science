@@ -55,7 +55,7 @@
   * graphique en nuage de points
   * graphique en barres 
   
-* Nb5: [Statistiques Inférentielles et test d'Hypothèse](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/6_statistiques_inf%C3%A9rentielles_et_test_d_hypoth%C3%A8se.ipynb)
+* Nb6: [Statistiques Inférentielles et test d'Hypothèse](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/6_statistiques_inf%C3%A9rentielles_et_test_d_hypoth%C3%A8se.ipynb)
   * Théorème central limite
   * Test d'hypothèse 
 
