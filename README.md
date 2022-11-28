@@ -71,7 +71,7 @@
 
 ## Jour 5
 #### Cours :
-* Statistique inférentielle : test à deux échantions
+* Statistique inférentielle : test à deux échantillons
 
 #### Workshop :
 * Nb7: [Test à Deux Echantillons](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/8_test_deux_%C3%A9chantillons.ipynb)
