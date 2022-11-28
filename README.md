@@ -32,7 +32,12 @@
 
 
 #### Workshop :
-* Nb3 : [Bibliothèque NumPy]
+* Nb3 : [Bibliothèque NumPy](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/3_biblioth%C3%A8que_NumPy.ipynb)
+ * NumPy
+ * Probabilité et nombres aléatoires
+ * Distribution binomiale
+ * 
+ * d
 
 ## Jour 4
 
