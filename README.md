@@ -1,8 +1,8 @@
-# Statistics et Data Science Program
+# Programme es Statistiques et Data Science
 
 
 ## Jour 1
-### Cours:
+#### Cours:
 * Types de statistiques
 
 ### Workshop :
