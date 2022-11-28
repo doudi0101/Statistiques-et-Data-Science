@@ -1,4 +1,4 @@
-# Programme es Statistiques et Data Science
+# Programme Statistiques et Data Science
 
 
 ## Jour 1
@@ -30,14 +30,14 @@
 ## Jour 3
 #### Cours :
 
-
 #### Workshop :
 * Nb3 : [Bibliothèque NumPy](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/3_biblioth%C3%A8que_NumPy.ipynb)
- * NumPy
- * Probabilité et nombres aléatoires
- * Distribution binomiale
- * 
- * d
+  * Bibliothèque **NumPy**
+  * Probabilité et nombres aléatoires
+  * Distribution binomiale
+  * Bibliothèque **SciPy**
+  * Distribution de Poisson
+  * Distribution Normale
 
 ## Jour 4
 
