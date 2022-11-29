@@ -75,7 +75,7 @@
 * Statistique inférentielle : test à deux échantillons
 
 #### Workshop :
-* Nb7: [Test à Deux Echantillons](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/8_test_deux_%C3%A9chantillons.ipynb)
+* Nb8: [Test à Deux Echantillons](https://github.com/doudi0101/Statistiques-et-Data-Science/blob/main/8_test_deux_%C3%A9chantillons.ipynb)
   * Tests à deux échantillons
   * Test Z à deux échantillons
   * Test t à deux échantillons (variances égales/inégales)
